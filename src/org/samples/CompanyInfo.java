@@ -4,6 +4,9 @@ public class CompanyInfo {
 	//argument depends on datatype count
 	private void compDetails(String name) {
 		System.out.println("employee name is:"+ name);
+		int a=10;
+		int a1=20;
+		
 	}
 	private void compDetails(String email, int empId ) {
 		System.out.println("employee email is:"+email+"\n"+"employee empid is:"+empId);
